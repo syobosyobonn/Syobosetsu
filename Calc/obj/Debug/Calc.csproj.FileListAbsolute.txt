@@ -1,0 +1,11 @@
+C:\Users\shu-t\source\repos\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\shu-t\source\repos\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\shu-t\source\repos\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\shu-t\source\repos\Calc\Calc\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\shu-t\source\repos\Calc\Calc\obj\Debug\Calc.csproj.AssemblyReference.cache
+C:\Users\shu-t\source\repos\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\shu-t\source\repos\Calc\Calc\obj\Debug\Calc.csproj.Up2Date
+C:\Users\shu-t\source\repos\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\shu-t\source\repos\Calc\Calc\obj\Debug\Calc.pdb
+C:\Users\shu-t\source\repos\Calc\Calc\bin\Debug\Musasabi.ConsoleEx.dll
+C:\Users\shu-t\source\repos\Calc\Calc\bin\Debug\Musasabi.ConsoleEx.pdb
