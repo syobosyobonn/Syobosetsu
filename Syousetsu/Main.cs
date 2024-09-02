@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Sgry.Azuki.WinForms;
+using System;
 using System.Diagnostics;
 using System.Drawing;
 using System.IO;
@@ -51,6 +52,8 @@ namespace Syobosetsu
             FileNamePanel.Region = new Region(PanelRegion(FileNamePanel));
 
             MoziPanel.Region = new Region(PanelRegion(MoziPanel));
+
+            MainTextBox.ColorScheme.CleanedLineBar = Color.FromArgb(0,0,0,0);
 
             if (Properties.Settings.Default.Dark)
             {
@@ -550,6 +553,8 @@ namespace Syobosetsu
                 DateTime currentTime = DateTime.Now;
                 string timeString = currentTime.ToString("hh:mm:ss");
                 FileNameLabel.Text = OpenedPath + "  (laset save is " + timeString + ")";
+
+                MainTextBox.Document.IsDirty = false;
             }
             else
             {
@@ -608,6 +613,8 @@ namespace Syobosetsu
                 DateTime currentTime = DateTime.Now;
                 string timeString = currentTime.ToString("hh:mm:ss");
                 FileNameLabel.Text = OpenedPath + "  (laset save is " + timeString + ")";
+
+                MainTextBox.Document.IsDirty = false;
             }
 
             fText = MainTextBox.Text;
@@ -642,6 +649,8 @@ namespace Syobosetsu
                 CheckTextsOn = false;
                 FileNameLabel.Text = ofd.FileName;
                 fText = MainTextBox.Text;
+
+                MainTextBox.Document.IsDirty = false;
             }
             else
             {
@@ -708,6 +717,8 @@ namespace Syobosetsu
             {
                 Open();
             }
+
+            MainTextBox.Document.IsDirty = false;
         }
 
         private void ヘルプToolStripMenuItem1_Click(object sender, EventArgs e)

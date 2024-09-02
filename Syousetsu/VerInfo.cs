@@ -6,7 +6,7 @@ namespace Syobosetsu
 {
     public partial class VerInfo : Form
     {
-        public static string ver = "0.15.0";
+        public static string ver = "0.16.0";
 
         public VerInfo()
         {

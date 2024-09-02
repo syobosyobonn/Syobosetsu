@@ -39,7 +39,7 @@
             // 
             // treeView1
             // 
-            this.treeView1.Location = new System.Drawing.Point(13, 13);
+            this.treeView1.Location = new System.Drawing.Point(5, 5);
             this.treeView1.Name = "treeView1";
             treeNode1.Name = "gaiyou";
             treeNode1.Text = "概要";
@@ -54,16 +54,16 @@
             treeNode2,
             treeNode3,
             treeNode4});
-            this.treeView1.Size = new System.Drawing.Size(140, 124);
+            this.treeView1.Size = new System.Drawing.Size(148, 140);
             this.treeView1.TabIndex = 0;
             this.treeView1.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.treeView1_AfterSelect);
             // 
             // richTextBox1
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(159, 13);
+            this.richTextBox1.Location = new System.Drawing.Point(159, 5);
             this.richTextBox1.Name = "richTextBox1";
             this.richTextBox1.ReadOnly = true;
-            this.richTextBox1.Size = new System.Drawing.Size(292, 124);
+            this.richTextBox1.Size = new System.Drawing.Size(300, 140);
             this.richTextBox1.TabIndex = 1;
             this.richTextBox1.Text = "";
             // 
@@ -72,14 +72,14 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Window;
-            this.ClientSize = new System.Drawing.Size(464, 152);
+            this.ClientSize = new System.Drawing.Size(464, 151);
             this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.treeView1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(480, 191);
             this.MinimizeBox = false;
-            this.MinimumSize = new System.Drawing.Size(480, 191);
+            this.MinimumSize = new System.Drawing.Size(480, 190);
             this.Name = "Help";
             this.ShowIcon = false;
             this.Text = "Syobosetsuーhelp";

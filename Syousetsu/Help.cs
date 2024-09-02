@@ -68,7 +68,9 @@ namespace Syobosetsu
                         "■Azuki\n" +
                         "　作者様\t\tYAMAMOTO Suguru\n"+
                         "　ライセンス\tzlib License\n"+
-                        "　Ver\t\t1.7.13";
+                        "　Ver\t\t1.7.13\n\n" +
+                        "■Syobosetsu\n" +
+                        "Copyright © 2024 Syobosyobonn.";
                 }
                 else
                 {
