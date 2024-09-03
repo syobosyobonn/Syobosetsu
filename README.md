@@ -1,10 +1,9 @@
 # Syobosetsu
-## Note
+## Info
 >[!NOTE]
 >このプログラムは、僕の友達以外はインストールできないようになっています。
 >(キーが欲しい僕の友達は言ってください)
 
-## Info
 > [!WARNING]
 > This is beta ver.
 
