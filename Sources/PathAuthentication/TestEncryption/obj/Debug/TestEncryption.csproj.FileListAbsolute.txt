@@ -1,0 +1,7 @@
+C:\Users\shu-t\source\repos\PathAuthentication\TestEncryption\bin\Debug\TestEncryption.exe.config
+C:\Users\shu-t\source\repos\PathAuthentication\TestEncryption\bin\Debug\TestEncryption.exe
+C:\Users\shu-t\source\repos\PathAuthentication\TestEncryption\bin\Debug\TestEncryption.pdb
+C:\Users\shu-t\source\repos\PathAuthentication\TestEncryption\obj\Debug\TestEncryption.csproj.AssemblyReference.cache
+C:\Users\shu-t\source\repos\PathAuthentication\TestEncryption\obj\Debug\TestEncryption.csproj.CoreCompileInputs.cache
+C:\Users\shu-t\source\repos\PathAuthentication\TestEncryption\obj\Debug\TestEncryption.exe
+C:\Users\shu-t\source\repos\PathAuthentication\TestEncryption\obj\Debug\TestEncryption.pdb

@@ -1,0 +1,7 @@
+C:\Users\shu-t\source\repos\PathAuthentication\PathAuthentication\bin\Debug\PathAuthentication.exe.config
+C:\Users\shu-t\source\repos\PathAuthentication\PathAuthentication\bin\Debug\PathAuthentication.exe
+C:\Users\shu-t\source\repos\PathAuthentication\PathAuthentication\bin\Debug\PathAuthentication.pdb
+C:\Users\shu-t\source\repos\PathAuthentication\PathAuthentication\obj\Debug\PathAuthentication.csproj.AssemblyReference.cache
+C:\Users\shu-t\source\repos\PathAuthentication\PathAuthentication\obj\Debug\PathAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\shu-t\source\repos\PathAuthentication\PathAuthentication\obj\Debug\PathAuthentication.exe
+C:\Users\shu-t\source\repos\PathAuthentication\PathAuthentication\obj\Debug\PathAuthentication.pdb
