@@ -1,7 +1,7 @@
 # Syobosetsu
 ## Info
 >[!NOTE]
->このプログラムは、パスをもっていない人以外はインストールできないようになっています。
+>このプログラムは、パスをもっていない人以外はインストールできないようになっています<br>
 >(キーが欲しい人は言ってください)
 
 > [!WARNING]
@@ -20,4 +20,4 @@
 > [!NOTE]
 > Azuki ... https://ja.osdn.net/projects/azuki/
 
-Copyright © 2024 Syobosyobonn All rights reserved.
+Copyright © 2024 Syobosyobonn(Zisty) All rights reserved.
