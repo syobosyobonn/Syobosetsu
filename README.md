@@ -18,7 +18,7 @@
 ```
 詳細は各Readme.mdを御覧ください
 
-## Copyright
+## Copyright and License
 > [!NOTE]
 > Azuki ... https://ja.osdn.net/projects/azuki/
 
