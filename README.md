@@ -1,4 +1,6 @@
 # Syobosetsu
+![Syobosetsu-Image](https://github.com/user-attachments/assets/be1415ec-ab32-4ea1-97c1-7d07d67cbf38)
+
 ## Info
 >[!NOTE]
 >このプログラムは、パスをもっていない人以外はインストールできないようになっています<br>
