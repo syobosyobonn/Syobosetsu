@@ -19,7 +19,22 @@
 詳細は各Readme.mdを御覧ください
 
 ## Copyright and License
-> [!NOTE]
-> Azuki ... https://ja.osdn.net/projects/azuki/
+### Azuki
+|  | Description |
+| --- | --- |
+| `Copyright` | (c)  YAMAMOTO Suguru |
+| `License` | Azuki licensed under zlib License |
+| `Repository` | https://ja.osdn.net/projects/azuki/ |
+| `Ver` | 1.7.13 (2016-08-27) |
 
-Copyright © 2024 Syobosyobonn(Zisty) All rights reserved.
+### Twemoji
+|  | Description |
+| --- | --- |
+| `Copyright` | (c) 2024 Twitter, Inc and other contributors |
+| `License` | Graphics licensed under CC-BY 4.0 |
+| | →https://creativecommons.org/licenses/by/4.0/ |
+| `Repository` | https://github.com/jdecked/twemoji/ |
+| `Ver` | 15.1.0 (2024-03-29) |
+
+### Syobosetsu
+　Copyright © 2024 Syobosyobonn(Zisty) All rights reserved.
