@@ -14,7 +14,8 @@
 対応しているのは以下の通りです
 ```
 ■Sources
-┣・PathAuthentication ... パス認証
+┣━・PathAuthentication ... パス認証
+┣━・ToDarkTitlebarProsess ... タイトルバーのダークモード化
 ```
 詳細は各Readme.mdを御覧ください
 
